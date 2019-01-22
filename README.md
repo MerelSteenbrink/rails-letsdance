@@ -1,24 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This mini-project in meant to get used to the Rails basics again. In this little app you can say something or ask a question. 
 
-Things you may want to cover:
+The app will respond with:
+- "YES! Let's dance!" if the users said "let's dance.".
+- "let's find out... DANCING!" if the user asks a question.
+- "OK, but now: Let's dance!" if the person says something.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
